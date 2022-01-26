@@ -232,3 +232,15 @@ footer button {
       0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
   }
 }
+th{
+  color: black;
+  background-color: white;
+  padding: 10px 15px;
+}
+td{
+  padding: 0 15px 0 15px;
+  border: 0.5px solid white;
+}
+#winners__container{
+  padding: 10px;
+}
